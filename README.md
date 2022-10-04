@@ -5,6 +5,8 @@ A small program I created to solve daily PDF merging problem. Online solutions a
 
 
 The source code (main.py) requires PyPDF2 only, the rest are built in functions in a typical python package. 
+Download the Windows Executable here [Ali PDf Merger](https://github.com/iamAliAsgharKhan/Ali-sPDFMerger/blob/master/main.exe) 
+
 
 Video Explanation : https://youtu.be/sGk-acPH76E
 ![](https://github.com/iamAliAsgharKhan/Ali-sPDFMerger/blob/master/explanation.gif)
